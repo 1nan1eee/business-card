@@ -7,5 +7,14 @@
 - Kotlin
 - Android SDK
 
+## Установка
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/1nan1eee/business-card.git
+   ```
+2. Откройте проект в Android Studio.
+3. Убедитесь, что у вас установлены зависимости и SDK для Android.
+4. Запустите приложение на эмуляторе или реальном устройстве.
+
 ## Скриншоты
 <img src="https://github.com/user-attachments/assets/453dc655-534e-4e6f-87f3-5fad6e94c29c" alt="Моя визитка" width="300"/>
